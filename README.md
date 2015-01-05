@@ -1,4 +1,4 @@
-test-repo
+Data Science Coursera
 =========
 
-test repository
+Repository created for The Data Scientist’s Toolbox course project.
